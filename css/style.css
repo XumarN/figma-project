@@ -1,0 +1,184 @@
+body{
+	
+	margin: 0;
+	padding: 0;
+
+}
+.main{
+	height: 820.5px;
+	width: 1440px;
+	background: #F2F2F2;
+
+
+}
+/*.navbar{
+	width: 640px;
+	height: 49px;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 65px;
+	background: red;
+	background: gray;
+}*/
+.center{
+	width: 1280px;
+	height: 474px;
+	margin-right: 80px;
+	margin-left: 80px;
+	margin-top:125px ;
+	/*background: blue;*/
+	position: relative;
+}
+.word1{
+	position: absolute;
+	width: 627px;
+	height: 120px;
+	margin-top: 77px;
+	margin-right: 653px;
+	margin-bottom: 277px;
+	/*background: black;*/
+	font-size: 40px;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	color: #07043B;
+}
+.word2{
+	position: absolute;
+	height: 72px;
+	width: 585px;
+	margin-left: 0;
+	margin-right: 695px;
+	margin-top: 212px;
+	margin-bottom: 25px;
+	/*background: red;*/
+	font-size: 17px;
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	color: #07043B;
+
+
+}
+.botton1{
+	position: absolute;
+	width: 320px;
+	height: 45px;
+	margin-top: 309px;
+	margin-right: 960px;
+	margin-left:0;
+	/*padding: 14px 172px 12px 21px;*/
+	/*background: red;*/
+	border-radius: 6px;
+	padding: 14px 172px 12px 21px;
+	font-size: 14px;
+
+
+}
+.botton2{
+	position: absolute;
+	width: 200px;
+	height: 45px;
+	margin-left: 336px;
+	margin-right: 744px;
+	margin-top:309px;
+	margin-bottom: 120px;
+	background: #2F65F8;
+	border-radius: 6px;
+	padding: 15px 61px 14px 61px;
+	font-size: 14px;
+}
+.photo{
+	position: absolute;
+	height: 474px;
+	width: 640px;
+	/*background: red;*/
+	margin-top: -472px;
+    margin-right: 80px;
+    margin-left: 718.5px;
+    margin-bottom: 726px;}
+
+.buttonn{
+	width:127px ;
+	height: 19px;
+}
+.buttonn1{
+	width: 78px;
+	height: 19px;
+}
+.fyloo{
+	width: 150px;
+	height: 50px;
+	background: blue;
+	color: #000000;
+	float: left;
+
+}
+
+.navbar{
+	width: 1280px;
+	height: 49px;
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 65px;
+	/*background: gray;*/
+
+}
+.navbar1{
+	width:640px ;
+	height:49px ;
+	/*background: blue;*/
+	margin:0 640px 0 0 ;
+	float: left;
+}
+.navbar2{
+	width:640px ;
+	height:49px ;
+	/*background: red;*/
+	margin:-49px 65px 0 640px;
+	float: left;
+
+
+}
+.fylo{
+	color: #000000;
+	font-size: 30px;
+	margin-left: 30px;
+	margin-top: 15px;
+
+}
+.features{
+	width: 65px;
+	height: 19px;
+	/*background: blue;*/
+	float: right;
+	margin: 15px 15px 15px 15px;
+	
+
+}
+.team{
+	width: 41px;
+	height: 19px;
+	/*background: blue;*/
+	float: right;
+	margin: 15px 15px 15px 15px;	
+}
+.signin{
+	
+	width: 50px;
+	height: 19px;
+	/*background: blue;*/
+	float: right;
+	margin: 15px 15px 15px 15px;
+
+}
+.feature1{
+	
+	color:#07043B
+}
+.team1{
+	color: #07043B;
+}
+.signin{
+	color: #07043B;
+}
