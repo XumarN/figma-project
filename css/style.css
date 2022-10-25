@@ -62,7 +62,7 @@ body{
 }
 .botton1{
 	position: absolute;
-	width: 320px;
+	width: 111px;
 	height: 45px;
 	margin-top: 309px;
 	margin-right: 960px;
@@ -72,14 +72,16 @@ body{
 	border-radius: 6px;
 	padding: 14px 172px 12px 21px;
 	font-size: 14px;
-
+	border-width: 2px;
+	border-color: #07043B;
+	border-style: solid;
 
 }
 .botton2{
 	position: absolute;
 	width: 200px;
 	height: 45px;
-	margin-left: 336px;
+	margin-left: 317px;
 	margin-right: 744px;
 	margin-top:309px;
 	margin-bottom: 120px;
@@ -101,10 +103,12 @@ body{
 .buttonn{
 	width:127px ;
 	height: 19px;
+
 }
 .buttonn1{
 	width: 78px;
 	height: 19px;
+
 }
 .fyloo{
 	width: 150px;
@@ -128,7 +132,7 @@ body{
 	width:640px ;
 	height:49px ;
 	/*background: blue;*/
-	margin:0 640px 0 0 ;
+	margin: 15px 640px 0 0 ;
 	float: left;
 }
 .navbar2{
@@ -142,9 +146,11 @@ body{
 }
 .fylo{
 	color: #000000;
-	font-size: 30px;
+	font-size: 50px;
+	/*border-style: solid;*/
 	margin-left: 30px;
 	margin-top: 15px;
+
 
 }
 .features{
@@ -173,7 +179,7 @@ body{
 
 }
 .feature1{
-	
+
 	color:#07043B
 }
 .team1{
