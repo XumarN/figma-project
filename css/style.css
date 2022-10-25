@@ -2,7 +2,6 @@ body{
 	
 	margin: 0;
 	padding: 0;
-
 }
 .main{
 	height: 820.5px;
@@ -99,13 +98,13 @@ body{
 	width: 640px;
 	/*background: red;*/
 	margin-top: -472px;
-    margin-right: 80px;
-    margin-left: 718.5px;
-    margin-bottom: 726px;}
+    	margin-right: 80px;
+   	margin-left: 718.5px;
+    	margin-bottom: 726px;}
 
 .buttonn{
 	width: 154px;
-    height: 32px;
+    	height: 32px;
 	border-radius: 1px;
 	border-style: solid;
 	border-color: yellow;
