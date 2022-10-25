@@ -89,6 +89,9 @@ body{
 	border-radius: 6px;
 	padding: 15px 61px 14px 61px;
 	font-size: 14px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 .photo{
 	position: absolute;
@@ -101,13 +104,17 @@ body{
     margin-bottom: 726px;}
 
 .buttonn{
-	width:127px ;
-	height: 19px;
-
+	width: 154px;
+    height: 32px;
+	border-radius: 1px;
+	border-style: solid;
+	border-color: yellow;
 }
 .buttonn1{
 	width: 78px;
 	height: 19px;
+	background: #2F65F8;
+
 
 }
 .fyloo{
