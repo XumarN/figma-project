@@ -2,23 +2,16 @@ body{
 	
 	margin: 0;
 	padding: 0;
+
 }
 .main{
 	height: 820.5px;
 	width: 1440px;
-	background: #F2F2F2;
+	/*background: #F2F2F2;*/
 
 
 }
-/*.navbar{
-	width: 640px;
-	height: 49px;
-	margin-left: 80px;
-	margin-right: 80px;
-	margin-top: 65px;
-	background: red;
-	background: gray;
-}*/
+
 .center{
 	width: 1280px;
 	height: 474px;
@@ -61,11 +54,11 @@ body{
 }
 .botton1{
 	position: absolute;
-	width: 111px;
-	height: 45px;
-	margin-top: 309px;
-	margin-right: 960px;
-	margin-left:0;
+    width: 128px;
+    height: 38px;
+    margin-top: 309px;
+    margin-right: 960px;
+    margin-left: -30px;
 	/*padding: 14px 172px 12px 21px;*/
 	/*background: red;*/
 	border-radius: 6px;
@@ -74,19 +67,20 @@ body{
 	border-width: 2px;
 	border-color: #07043B;
 	border-style: solid;
+	color: C2C2C2;
 
 }
 .botton2{
 	position: absolute;
-	width: 200px;
-	height: 45px;
+	width: 258px;
+    height: 65px;
 	margin-left: 317px;
 	margin-right: 744px;
 	margin-top:309px;
 	margin-bottom: 120px;
 	background: #2F65F8;
 	border-radius: 6px;
-	padding: 15px 61px 14px 61px;
+	/*padding: 15px 61px 14px 61px;*/
 	font-size: 14px;
 	display: flex;
 	align-items: center;
@@ -98,33 +92,22 @@ body{
 	width: 640px;
 	/*background: red;*/
 	margin-top: -472px;
-    	margin-right: 80px;
-   	margin-left: 718.5px;
-    	margin-bottom: 726px;}
+    margin-right: 80px;
+    margin-left: 718.5px;
+    margin-bottom: 726px;}
 
 .buttonn{
 	width: 154px;
-    	height: 32px;
-	border-radius: 1px;
-	border-style: solid;
-	border-color: yellow;
+    height: 32px;
+    border: none;
+    color: #C2C2C2;
 }
 .buttonn1{
-	width: 78px;
+	width: 58px;
 	height: 19px;
-	background: #2F65F8;
-
-
+	color: #FFFFFF;
+	border: none;
 }
-.fyloo{
-	width: 150px;
-	height: 50px;
-	background: blue;
-	color: #000000;
-	float: left;
-
-}
-
 .navbar{
 	width: 1280px;
 	height: 49px;
@@ -140,6 +123,7 @@ body{
 	/*background: blue;*/
 	margin: 15px 640px 0 0 ;
 	float: left;
+
 }
 .navbar2{
 	width:640px ;
@@ -195,3 +179,146 @@ body{
 .signin{
 	color: #07043B;
 }
+.center1{
+	width: 1440px;
+	height: 855.37px;
+	background-image: url(../img/Rectangle.png);
+	position: relative;
+}
+.stay{
+	width: 650px;
+	height: 47px;
+	margin: 195.5px 740px 312.87px 80px;
+	/*background: red;*/
+	position: absolute;
+	color: #07043B;
+	font-size: 40px;
+
+}
+.never{
+	position: absolute;
+	width: 529px;
+	height: 48px;
+	margin: 280.5px 831px 523.87px 80px;
+	/*background: red;*/
+	color: #07043B;
+	font-size: 16px;
+}
+.securely{
+	position: absolute;
+	width: 529px;
+	height: 48px;
+	margin: 344.5px 831.4px 462.87px 80px;
+	/*background: red;*/
+	color: #07043B;
+	font-size: 16px;
+}
+
+
+.photo1{
+	position: absolute;
+	width: 542px;
+	height: 409px;
+	margin: 219.5px 80px 226.87px 818px;
+	/*background: red;*/
+}
+.has{
+	position: absolute;
+	width: 356px;
+	height: 215px;
+	background: #F8F8FE;
+	margin: 479.5px 1004px 160.87px 80px;
+	border-radius: 5px;
+	 box-shadow: 5px 10px 15px 10px #888888;
+	 line-height: 23px;
+
+}
+.see{
+	position: absolute;
+	width: 166px;
+	height: 27px;
+	/*background: red;*/
+	margin: 407.5px 1194px 420.87px 80px;
+	border: solid;
+	border-width: 0 0 1px 0;
+	border-color: #3DA08F;
+
+}
+.see1{
+	width: 146px;
+	height: 22px;
+	margin: 0 22px 5px 0;
+	/*background: yellow;*/
+	float: left;
+	color: #3DA08F;
+}
+.next{
+	height: 16px;
+    width: 16px;
+    margin: -26.5px 1162px 428.87px 146px;
+    background: #3DA08F;
+    border-radius: 50%;
+    padding: 2px 2px 2px 2px; 
+    float: left; 
+}
+.next1{
+	height: 5.32px;
+	width: 4px;
+	margin: 0px 0px 0px  0px;
+	color: white;
+}
+.sign{
+	height: 68px;
+	width: 18px;
+	/*background: black;*/
+	margin: 12px 305px 135px 33px;
+	float: left;
+
+}
+.has1{
+	position: absolute;
+	width: 289px;
+	height: 92px;
+	margin: 49px 34px 74px 33px;
+	background: #FFFFFF;
+	font-size: 13px;
+	color: #07043B;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	line-height: 130%;
+}
+.photo2{
+	width: 32px;
+	height: 32px;
+	margin: -58px 291px 26px 33px;
+	/*background: black;*/
+	border-radius: 50%;
+	float: left;
+}
+.kyle{
+	width: 71px;
+	height: 15px;
+	margin:-56px 212px 41px 73px;
+	float: left;
+	/*background: red;*/
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	font-size: 11px;
+	color: #07043B;
+}
+.founder{
+	width: 97px;
+	height: 15px;
+	margin:-41px 186px 26px 73px;
+	/*background: red;*/
+	float: left;
+	display: flex;
+	align-items: center;
+	justify-content: left;
+	font-size: 8px;
+	color: #07043B;
+	
+}
+
