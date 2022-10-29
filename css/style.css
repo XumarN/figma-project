@@ -58,7 +58,7 @@ body{
     height: 38px;
     margin-top: 309px;
     margin-right: 960px;
-    margin-left: -30px;
+    margin-left: 0px;
 	/*padding: 14px 172px 12px 21px;*/
 	/*background: red;*/
 	border-radius: 6px;
@@ -74,7 +74,7 @@ body{
 	position: absolute;
 	width: 258px;
     height: 65px;
-	margin-left: 317px;
+	margin-left: 345px;
 	margin-right: 744px;
 	margin-top:309px;
 	margin-bottom: 120px;
@@ -94,7 +94,8 @@ body{
 	margin-top: -472px;
     margin-right: 80px;
     margin-left: 718.5px;
-    margin-bottom: 726px;}
+    margin-bottom: 726px;
+}
 
 .buttonn{
 	width: 154px;
@@ -120,7 +121,7 @@ body{
 .navbar1{
 	width:640px ;
 	height:49px ;
-	/*background: blue;*/
+	background-image: url(../img/header.png);
 	margin: 15px 640px 0 0 ;
 	float: left;
 
@@ -270,7 +271,8 @@ body{
 .sign{
 	height: 68px;
 	width: 18px;
-	/*background: black;*/
+	background-image: url(../img/sign.png);
+	background-repeat: no-repeat;
 	margin: 12px 305px 135px 33px;
 	float: left;
 
